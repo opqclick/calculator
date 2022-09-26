@@ -1,0 +1,17 @@
+{
+    "name": "opqclick/calculator",
+    "description": "This demo package will do some calculations",
+    "autoload": {
+        "psr-4": {
+            "Opqclick\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Opu Hasnat",
+            "email": "opqclick@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
